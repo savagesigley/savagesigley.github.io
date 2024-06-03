@@ -1,0 +1,55 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Join Us</title>
+	<link rel="stylesheet" href="mystyle.css" type="text/css"/>
+	<meta name="description" content="Learn latin dance online with Dance Mastery Online! beginner friendly" />
+</head>
+<body>
+	<nav>
+  		<a href="home.html"> Home</a>|
+  		<a href="about.html">About Us</a>|
+  		<a href="pricing.html">Pricing</a>|
+  		<a href="blog.html">Blog</a>|
+  		<a href="contactus.html">Contact us</a>|
+	</nav>
+	<h1>Join Us Today!</h1>
+	<img src="tango2.jpg" alt="Dance Couple" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;"> 
+	<br>
+		<table align="center">
+  			<tr>
+    			<th>Membership</th>
+    			<th>Price</th>
+    			<th>Included</th>
+  			</tr>
+  			<tr>
+    			<td>Standard membership</td>
+    			<td>$49.99 per month</td>
+    			<td>all classes available</td>
+  			</tr>
+  			<tr>
+    			<td>Gold Membership</td>
+    			<td>$99.99 per month</td>
+    			<td>PLUS 1 on 1 session per month</td>
+  			</tr>
+		</table>
+	<p><strong><em>(Gold Membership includes standard membership)</em></strong>
+	<br>
+	<br>
+	If you have any questions please feel welcome to get in contact wih us</p>
+	<br>
+	<br>
+	<img src="dance2.jpg" alt="Dance Couple" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;">
+	<br>
+	<h1>Key Features</h1>
+		<ul>
+  			<li> Professional Instructors</li>
+  			<li> Great Friendly Community</li>
+  			<li> World class  dance</li>
+  			<li> Great workout</li>
+  			<li> 1 on 1 sessions available </li>
+		</ul>
+</body>
+</html>

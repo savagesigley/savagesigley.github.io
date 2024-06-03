@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Welcome Dance Mastery Online</title>
+	<link rel="stylesheet" href="mystyle.css" type="text/css"/>
+	<meta name="description" content="Learn latin dance online with Dance Mastery Online! beginner friendly" />
+</head>
+<body>
+	<nav>
+  		<a href="home.html"> Home</a>|
+  		<a href="about.html">About Us</a>|
+  		<a href="pricing.html">Pricing</a>|
+  		<a href="blog.html">Blog</a>|
+  		<a href="contactus.html">Contact us</a>|
+	</nav>
+<h1>About Us </h1>
+<img src="tango1.jpg" alt="Dance Couple" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;">
+<p>We are passionate about sharing the joy and magic of Latin dance with students of all ages and levels. Dance Mastery Online was born from a love of salsa, bachata, kizomba, and more, and a desire to create a welcoming and inclusive space where everyone can learn, grow, and express themselves through movement.
+<br>
+<br>
+Whether you're a complete beginner with two left feet or a seasoned dancer looking to refine your skills, we have something for you. Our experienced and dedicated instructors offer a variety of classes, from beginner-friendly foundations to advanced workshops, in different styles to fuel your passion. We focus on technique, musicality, and body awareness, all while fostering a supportive and fun atmosphere where you can connect with other dance enthusiasts.
+<br>
+<br>
+More than just steps and routines, we believe Latin dance is a journey of self-discovery, confidence building, and cultural exploration. We celebrate the rich heritage of these dances and create a community where you can express yourself freely, make new friends, and have a blast while moving your body to infectious rhythms.
+<br>
+<br>
+Join us at Dance Mastery Online and take your first step towards a passionate and fulfilling dance experience. Contact us today for a free trial class and discover the joy of Latin dance! </p>
+</body>
+</html>
