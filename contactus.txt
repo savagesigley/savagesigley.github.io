@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title> Welcome to Dance Mastery Online</title>
+	<title> Let's Connect</title>
 	<link rel="stylesheet" href="mystyle.css" type="text/css"/>
-	<meta name="description" content="Learn latin dance online with Dance Mastery Online! beginner friendly" />
+	<meta name="description" content="Security-Minded Fullstack Developer: Building Secure and Scalable Applications" />
 </head>
 <body>
 	<nav>
@@ -12,15 +12,25 @@
   		<a href="about.html">About Us</a>|
   		<a href="pricing.html">Pricing</a>|
   		<a href="blog.html">Blog</a>|
-  		<a href="contactus.html">Contact us</a>|
+  		<a href="contactus.html">Contact Me</a>|
 	</nav>
 <h1>Contact us</h1>
-<img src="tango4.jpg" alt="Dance Couple" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;"> 
+ 
 <h1>Do you have questions?</h1>
 <ul>
-Let's Chat!
-Have questions about our classes, pricing, or anything else under the Latin sun? We'd love to hear from you! Whether you're a seasoned dancer or just dipping your toes into the rhythm, our friendly team is here to guide you
+Let's Connect!
+"I'm always interested in hearing about new opportunities and projects. Feel free to send me a message using the form below, or reach out to me directly at ***[your_email@example.com]***."
+
+Contact Form:
+
+Name:JB sigley
+Email:***[your_email@example.com]***
+Message: (text area)
+Submit Button
+BUTTON FOR PEOPLE TO DOWNLOAD MY RESUME***
 </ul>
+<br>
+<img src="pexels4.jpg" alt="security minded, fullstack engineer pic" style="border-radius: 5%; width: 750px; height: 500px; object-fit: cover; margin-bottom: 20px;">
 <br>
 <body> 
 <h1>Please fill this form</h1>

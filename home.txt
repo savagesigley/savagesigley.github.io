@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title> Dance Mastery Online</title>
+	<title> JB Sigley</title>
 	<link rel="stylesheet" href="mystyle.css" type="text/css"/>
-	<meta name="description" content="Learn latin dance online with Dance Mastery Online! beginner friendly" />
+	<meta name="Security-Minded Fullstack Developer: Building Secure and Scalable Applicationsy" />
 </head>
 
 <body>
@@ -16,24 +16,41 @@
 		<a href="contactus.html">Contact us</a>|
 	</nav>
 
-	<h1>Unleash Your Rhythm  with Dance Mastery Online</h1>
-	<img src="tango.jpg" alt="Latin Dance" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;"> 
-	<p>Step into a world of sizzling salsa, fiery flamenco, and captivating bachata! Ever dreamed of gliding across the dance floor with the confidence and grace of a Latin dancer? 	Now you can, wherever you are in the world, with Dance Mastery Online, your premier online Latin dance school! We offer a vibrant community and passionate instructors dedicated 	to helping you discover the joy and energy of Latin dance.
+	<h1>About Me:</h1> 
+	<p>"I've always been fascinated by IT and cybersecurity. After years of interest, I took the leap and transitioned careers to become a Fullstack Developer with a strong focus on security. I'm passionate about this field because there's always something new to learn and the challenges keep me engaged.
 	<br>
-	<img src="dance1.jpg" alt="Latin Dance" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;">
+<img src="pexels1.jpg" alt="computerpicture" style="border-radius: 5%; width: 750px; height: 500px; object-fit: cover; margin-bottom: 20px;"> 
 	<br>
 
-	No partner? No problem! Our beginner-friendly classes cater to solo dancers, guiding you step-by-step through the fundamentals of Salsa, Bachata, Merengue, Cha Cha Cha, and more. 	Learn basic footwork, body movements, and partner techniques (even without a partner!) at your own pace, in the comfort of your own home.</p>
+	Skills:
+
+Fullstack: HTML, CSS, JavaScript (mention any frameworks you're proficient in)
+Cybersecurity: Penetration Testing, Cryptography, Network Security, SIEM Management</p>
 	<br>
 	<img src="dance2.jpg" alt="Latin Dance" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin-bottom: 20px;">
 	<br>
-	<h1>We offer</h1>
+	<h1>My Projects</h1>
 	<ul>
-		<li> Engaging and interactive online classes: Learn from experienced and engaging instructors who make learning fun and motivating.</li>
-		<li> Flexible schedule: Choose from a variety of class times to fit your busy life.</li>
-		<li> Affordable pricing: Enjoy quality dance instruction without breaking the bank.</li>
-		<li> Unlimited access to recordings: Missed a class? No worries! Review lessons anytime with our on-demand library.</li>
-		<li> Supportive community: Connect with fellow dancers through our online forum and share your progress, ask questions, and celebrate your achievements.</li>
+<br>
+<img src="pexels6.jpg" alt="computerpicture" style="border-radius: 5%; width: 750px; height: 500px; object-fit: cover; margin-bottom: 20px;"> 
+<br>
+		1 Deploy My Own Secure Website: Briefly describe the process of deploying your website on AWS. Highlight the security measures you implemented (e.g., user authentication, data encryption). <br>
+2 Red Team vs. Blue Team in a Home Lab: Explain how you set up a simulated attack and defense environment in your home lab. Mention the tools you used for each side (red team: penetration testing tools, blue team: security monitoring tools).
+<br>
+
+3. Building a Secure E-commerce Platform:
+
+Briefly describe the concept of an e-commerce platform you'd like to build (e.g., focus on a specific niche).
+Mention the fullstack technologies you'd use for the front-end and back-end (e.g., a popular e-commerce framework).
+Highlight how you'd integrate security best practices throughout the development process:
+Secure user authentication and authorization.
+Secure payment processing (avoid storing sensitive data like credit card numbers).
+Input validation to prevent vulnerabilities like SQL injection.
+Regular security audits and penetration testing.
+This project showcases both your fullstack development skills and your understanding of security principles in a practical application.
 	</ul>
+<br>
+<img src="pexels7.jpg" alt="computerpicture" style="border-radius: 5%; width: 750px; height: 500px; object-fit: cover; margin-bottom: 20px;"> 
+<br>
 </body>
 </html>
