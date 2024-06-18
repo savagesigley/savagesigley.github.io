@@ -16,13 +16,17 @@
 <ul>
 Let's Connect!
 <br>
+	<br>
 "I'm always interested in hearing about new opportunities and projects. 
 <br>
+	<br>
 Feel free to send me a message using the form below, or reach out to me directly at 
 <br>
+	<br>
 jbSigley@softwarerengineer.com.au."
 
 <br>
+	<br>
 DOWNLOAD RESUME BUTTON (in coming)
 </ul>
 <br>
