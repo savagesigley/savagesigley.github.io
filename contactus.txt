@@ -10,7 +10,7 @@
   		<a href="home.html"> Home</a> |
 		<a href="contactus.html">Contact Me</a>
 	</nav>
-<h1>Contact us</h1>
+<h1>Contact Me</h1>
  
 <h1>Do you have questions?</h1>
 <ul>
